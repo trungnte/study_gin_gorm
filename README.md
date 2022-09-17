@@ -20,4 +20,8 @@ go get github.com/jinzhu/gorm/dialects/sqlite@v1.9.16
 go run main.go
 ```
 
-By building this project from scratch, I hope you gained a basic understanding of how to develop a RESTful API with Gin and Gorm, how they work together, and how to implement the CRUD features. There is still plenty of room for improvement, such as authenticating users with JWT, implementing unit testing, containerizing your app with Docker, and a lot of other cool stuff you can mess around with if you want to dig deeper.
+### Test
+
+![](img/1.png)
+
+![](img/2.png)
